@@ -10,7 +10,7 @@ Sistema Financeiro de módulos de contas a pagar e receber.
  <body>
 
 <h3>Projeto SISFIN - Sistema Financeiro.</h3>
-<h4>Sistema completo dividido em modulos, utilizando tecnologias JPA, Hibernate e Primefaces</h4>
+<h4>Sistema Financeio de Módulos de contas a pagar e receber e desenvolvimento, com exemplos.</h4>
 
 
 <p>Etapa Atual:</p>
