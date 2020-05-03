@@ -27,7 +27,7 @@ Implantacao do Módulo de Contas a Pagar e Receber.<br />
         <br>
         <img src="https://github.com/sergiosalomao/SistemaFinanceiro/blob/master/screenshots/screen3.png">
         <br>
-        <img src="https://github.com/sergiosalomao/SistemaFinanceiro/blob/master/screenshots/screen4.png">
+        
 </div>        
    
 </body>
