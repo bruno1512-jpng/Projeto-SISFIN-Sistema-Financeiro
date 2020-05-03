@@ -14,8 +14,8 @@ Sistema Financeiro de módulos de contas a pagar e receber.
 
 
 <p>Etapa Atual:</p>
-1.0 - Implantação do Modulo de Caixa. (em desenvolvimento)<br />
-2.0 - Implantacao do Modulo Contas a Pagar e Receber. (no projeto)<br />
+Implantação do Módulo de Caixa.<br />
+Implantacao do Módulo de Contas a Pagar e Receber.<br />
 </p>
 
 <br>
